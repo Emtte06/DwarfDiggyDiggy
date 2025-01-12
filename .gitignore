@@ -1,0 +1,12 @@
+# Unity auto-generated files
+/Library/
+/Temp/
+/Logs/
+/obj/
+/Build/
+/Builds/
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
