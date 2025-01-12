@@ -1,0 +1,9 @@
+/Temp/ 
+/Library/ 
+/Obj/ 
+/Build/ 
+/Builds/ 
+.vs/ 
+.vscode/ 
+*.user 
+*.userprefs 
